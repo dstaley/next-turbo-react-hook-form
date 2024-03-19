@@ -3,6 +3,6 @@
 	"private": true,
 	"main": "src/index.ts",
 	"dependencies": {
-		"react-hook-form": "^7.43.5"
+		"react-hook-form": "^7.51.1"
 	}
 }
